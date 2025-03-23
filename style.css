@@ -1,0 +1,51 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.pricing-header {
+    max-width: 700px;
+    margin: auto;
+}
+.header-frst{
+  width: 100%;
+  height: 50px;
+  box-shadow: 0 5px 15px 0 rgba(0,0,0,0.2); 
+}
+.buttons{
+  display: flex;
+  position: absolute;
+  top: 7px;
+  right: 10px;
+}
+.text{
+  position: absolute;
+  top: 7px;
+  left: 10px;
+}
+.const{
+  width: 1298px;
+  height: 300px;
+  border-top: 1px solid grey;
+  position: absolute;
+  left: 110px;
+}
+.frst{
+  position: absolute;
+  top: 50px;
+}
+.second{
+  position: absolute;
+  margin-top: 50px;
+  left: 300px;
+}
+.third{
+  position: absolute;
+  margin-top: 50px;
+  left: 650px;
+}
+.four{
+  position: absolute;
+  margin-top: 50px;
+  right: 150px;
+}
